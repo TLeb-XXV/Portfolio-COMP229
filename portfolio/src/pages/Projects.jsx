@@ -1,3 +1,6 @@
+//Talia Lebano 
+//Last update 2026/09/06
+
 function Projects() {
   return (
     <div className="projects">

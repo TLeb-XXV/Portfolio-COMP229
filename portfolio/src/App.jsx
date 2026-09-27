@@ -1,3 +1,6 @@
+//Talia Lebano 
+//Last update 2026/09/06
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import "./App.css";

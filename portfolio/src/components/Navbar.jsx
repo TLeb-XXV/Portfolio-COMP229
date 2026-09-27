@@ -1,3 +1,6 @@
+//Talia Lebano 
+//Last update 2026/09/06
+
 import { Link } from "react-router-dom";
 
 function Navbar() {

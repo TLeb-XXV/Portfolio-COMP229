@@ -1,3 +1,6 @@
+//Talia Lebano 
+//Last update 2026/09/06
+
 function References() {
   return (
     <div className="references">
